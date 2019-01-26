@@ -8,3 +8,5 @@ A few drinks later, and here I am writing this damn book over the course of a we
 At least it's funny as hell. And true.
 
 SEND ME YOUR COMMENTS TO INCORPORATE (John: Please no nudes this time)
+
+![cover](https://triosdevelopers.com/jason.eckert/stuff/CultOfMacCoverWeb.jpg)
