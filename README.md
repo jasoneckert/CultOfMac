@@ -9,4 +9,4 @@ At least it's funny as hell. And true.
 
 SEND ME YOUR COMMENTS TO INCORPORATE (John: Please no nudes this time)
 
-![cover](https://triosdevelopers.com/jason.eckert/stuff/CultOfMacCoverWeb.jpg)
+![cover](http://triosdevelopers.com/jason.eckert/stuff/CultOfMacCoverWeb.jpg)
