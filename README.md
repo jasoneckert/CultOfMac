@@ -11,7 +11,7 @@ It’s called Escaping the Cult of Mac: A Guide from a Cult Survivor.
 The current version is 76 pages long.
 
 Anywho, it’s true, it’s funny, and it’s worth a read.
-
+Most reactions so far have been “The was freakin’ hilarious, and so very very true!”
 But remember that it's also satire (not politically correct), and should be treated as such (no haters please).
 
 ![cover](http://triosdevelopers.com/jason.eckert/stuff/CultOfMacCoverWeb.jpg)
