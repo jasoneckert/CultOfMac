@@ -12,6 +12,6 @@ The current version is 76 pages long.
 
 Anywho, it’s true, it’s funny, and it’s worth a read.
 
-But remember that it's satire, and should be treated as such (no haters please).
+But remember that it's also satire (not politically correct), and should be treated as such (no haters please).
 
 ![cover](http://triosdevelopers.com/jason.eckert/stuff/CultOfMacCoverWeb.jpg)
