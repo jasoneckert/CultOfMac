@@ -10,7 +10,9 @@ A few drinks later, I somehow got roped into making a bet that I could write a p
 It’s called Escaping the Cult of Mac: A Guide from a Cult Survivor.
 
 I've revised it twice:
+
 -->May 2019 (with reader contributions)
+
 -->May 2020 (to reflect new information and incorporate more reader contributions)
 
 The current version is 78 pages long.
