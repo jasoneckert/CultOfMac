@@ -19,6 +19,6 @@ Most reactions so far have been “The was freakin’ hilarious, and so very ver
 
 But remember that it's also satire (not politically correct), and should be treated as such (no haters please).
 
-While entirely unnecessary, if you enjoyed what I wrote and want to show your appreciation - send me an email to let me know what you thought of it! Or buy me a coffee (https://www.buymeacoffee.com/jasoneckert). Anywho - I'm just glad you read it. Cheers!
+While entirely unnecessary, if you enjoyed what I wrote and want to show your appreciation - send me an email to let me know what you thought of it! Or buy me a coffee (https://www.buymeacoffee.com/jasoneckert). I'm really just glad you read it. Cheers!
 
 ![cover](http://triosdevelopers.com/jason.eckert/stuff/CultOfMacCoverWeb.jpg)
