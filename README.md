@@ -1,5 +1,5 @@
 # CultOfMac
-Escaping the Cult of Mac: A Guide from a Cult Survivor
+Escaping the Cult of Mac: A Guide from a Cult Survivor (Revised October 2020)
 
 This is a fun short book project that came about as a result of a conversation with my local Linux/UNIX/developer/IT community back in January 2019.
 
