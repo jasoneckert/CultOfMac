@@ -1,5 +1,5 @@
 # CultOfMac
-Escaping the Cult of Mac: A Guide from a Cult Survivor (Revised October 2020)
+Escaping the Cult of Mac: A Guide from a Cult Survivor (Revised January 2022)
 
 This is a fun short book project that came about as a result of a conversation with my local Linux/UNIX/developer/IT community back in January 2019.
 
@@ -9,7 +9,7 @@ Someone called him a “Cult of Mac member” and he replied, “And proud to be
 A few drinks later, I somehow got roped into making a bet that I could write a proper book on the Cult of Mac in a weekend. So I did. 
 It’s called Escaping the Cult of Mac: A Guide from a Cult Survivor.
 
-I've revised it four times: May 2019 (reader contributions), May 2020 (new info and reader contributions), October 2020 (new info) and December 2020 (new info & a few typos fixed).
+I've revised it four times: May 2019 (reader contributions), May 2020 (new info and reader contributions), October 2020 (new info), December 2020 (new info & a few typos fixed), and January 2022 (new/updated info).
 
 The current version is 80 pages long.
 
