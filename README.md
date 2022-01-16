@@ -11,7 +11,7 @@ It’s called Escaping the Cult of Mac: A Guide from a Cult Survivor.
 
 I've revised it four times: May 2019 (reader contributions), May 2020 (new info and reader contributions), October 2020 (new info), December 2020 (new info & a few typos fixed), and January 2022 (new/updated info).
 
-The current version is 80 pages long.
+The current version is 78 pages long.
 
 Anywho, it’s true, it’s funny, and it’s worth a read.
 
